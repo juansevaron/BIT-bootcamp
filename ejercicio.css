@@ -1,0 +1,29 @@
+.box{
+    margin-top: 1px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 10px;
+    border: solid 2px yellow;
+    margin-left: 300px;
+    margin: 10px;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+.box1{
+width: 100px;
+height: 100px;
+background-color: blue;
+margin: 2px;
+border: solid 2px yellow;
+margin-left: 300px;
+
+}
+
+.CAJAS{
+    margin:0 0 200px 0;
+}
+
+
+
